@@ -10,5 +10,11 @@ Make sure in your Google Cloud Project with you create a Datastore.
 
 
 
+Excersise 2: Storing and Dsiplaying News Articles
+
+Write a Python script that fetches the latest news articles for a specified topic using the NewsAPI. 
+
+The program will analyze the sentiment of the news articles using the TextBlob library, store the results in Google Cloud Datastore, and retrieve and display all stored news articles along with their sentiment scores, including from previous executions.
+
 
 
