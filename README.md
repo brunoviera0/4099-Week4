@@ -10,7 +10,7 @@ Make sure in your Google Cloud Project with you create a Datastore.
 
 
 
-Excersise 2: Storing and Dsiplaying News Articles
+Excersise 2: Storing and Displaying News Articles
 
 Write a Python script that fetches the latest news articles for a specified topic using the NewsAPI. 
 
